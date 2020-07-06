@@ -1,0 +1,4 @@
+Professores nessa pasta, os senhores vão encontrar duas pastas
+(croki e desenho_3d) no croki está o primeiro desenho desenvolvido a mão do nosso projeto
+e desenho_3d tem (tem arquivo cart_part) que os senhores podem abrir para ver a peça ou
+tem as fotos de cada parte do projeto com suas cotas.
